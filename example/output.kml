@@ -1,0 +1,2961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Folder id="58">
+            <Style id="2">
+                <IconStyle id="4">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="5">
+                        <href>http://ngeedata.iarc.uaf.edu/data/icons/number_0.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="3">
+                    <colorMode>normal</colorMode>
+                    <scale>0</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="54">
+                <IconStyle id="56">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="57">
+                        <href>http://ngeedata.iarc.uaf.edu/data/icons/number_130.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="55">
+                    <colorMode>normal</colorMode>
+                    <scale>0</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="38">
+                <IconStyle id="40">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="41">
+                        <href>http://ngeedata.iarc.uaf.edu/data/icons/number_90.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="39">
+                    <colorMode>normal</colorMode>
+                    <scale>0</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="42">
+                <IconStyle id="44">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="45">
+                        <href>http://ngeedata.iarc.uaf.edu/data/icons/number_100.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="43">
+                    <colorMode>normal</colorMode>
+                    <scale>0</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="50">
+                <IconStyle id="52">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="53">
+                        <href>http://ngeedata.iarc.uaf.edu/data/icons/number_120.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="51">
+                    <colorMode>normal</colorMode>
+                    <scale>0</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="46">
+                <IconStyle id="48">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="49">
+                        <href>http://ngeedata.iarc.uaf.edu/data/icons/number_110.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="47">
+                    <colorMode>normal</colorMode>
+                    <scale>0</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="34">
+                <IconStyle id="36">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="37">
+                        <href>http://ngeedata.iarc.uaf.edu/data/icons/number_80.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="35">
+                    <colorMode>normal</colorMode>
+                    <scale>0</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="30">
+                <IconStyle id="32">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="33">
+                        <href>http://ngeedata.iarc.uaf.edu/data/icons/number_70.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="31">
+                    <colorMode>normal</colorMode>
+                    <scale>0</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="26">
+                <IconStyle id="28">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="29">
+                        <href>http://ngeedata.iarc.uaf.edu/data/icons/number_60.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="27">
+                    <colorMode>normal</colorMode>
+                    <scale>0</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="22">
+                <IconStyle id="24">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="25">
+                        <href>http://ngeedata.iarc.uaf.edu/data/icons/number_50.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="23">
+                    <colorMode>normal</colorMode>
+                    <scale>0</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="6">
+                <IconStyle id="8">
+                    <colorMode>normal</colorMode>
+                    <scale>1</scale>
+                    <heading>0</heading>
+                    <Icon id="9">
+                        <href>http://ngeedata.iarc.uaf.edu/data/icons/number_10.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="7">
+                    <colorMode>normal</colorMode>
+                    <scale>0</scale>
+                </LabelStyle>
+            </Style>
+            <name>Snow Depth Data</name>
+            <Placemark id="60">
+                <name>Counter: 700002
+&quot;2018-03-26 14:15:15.14&quot;</name>
+                <description>0</description>
+                <styleUrl>#2</styleUrl>
+                <Point id="59">
+                    <coordinates>-165.9662934,64.745335,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="62">
+                <name>Counter: 700003
+&quot;2018-03-26 14:15:16.45&quot;</name>
+                <description>0</description>
+                <styleUrl>#2</styleUrl>
+                <Point id="61">
+                    <coordinates>-165.9662901,64.74533,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="64">
+                <name>Counter: 700004
+&quot;2018-03-26 14:15:23.22&quot;</name>
+                <description>129.9</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="63">
+                    <coordinates>-165.96627,64.7453267,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="66">
+                <name>Counter: 700005
+&quot;2018-03-26 14:15:24.46&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="65">
+                    <coordinates>-165.9662716,64.7453267,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="68">
+                <name>Counter: 700006
+&quot;2018-03-26 14:15:28.6&quot;</name>
+                <description>0</description>
+                <styleUrl>#2</styleUrl>
+                <Point id="67">
+                    <coordinates>-165.96627,64.7453233,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="70">
+                <name>Counter: 700007
+&quot;2018-03-26 15:08:28.06&quot;</name>
+                <description>93</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="69">
+                    <coordinates>-165.9687833,64.7461766,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="72">
+                <name>Counter: 700008
+&quot;2018-03-26 15:08:36.57&quot;</name>
+                <description>101.4</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="71">
+                    <coordinates>-165.9687917,64.7461817,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="74">
+                <name>Counter: 700009
+&quot;2018-03-26 15:08:44.89&quot;</name>
+                <description>121.1</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="73">
+                    <coordinates>-165.968805,64.7461917,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="76">
+                <name>Counter: 700010
+&quot;2018-03-26 15:08:52.43&quot;</name>
+                <description>122.9</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="75">
+                    <coordinates>-165.9688233,64.746195,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="78">
+                <name>Counter: 700011
+&quot;2018-03-26 15:08:59.21&quot;</name>
+                <description>87.1</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="77">
+                    <coordinates>-165.9688434,64.7462016,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="80">
+                <name>Counter: 700012
+&quot;2018-03-26 15:09:06.09&quot;</name>
+                <description>85.4</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="79">
+                    <coordinates>-165.9688584,64.7462083,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="82">
+                <name>Counter: 700013
+&quot;2018-03-26 15:09:13.51&quot;</name>
+                <description>119.6</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="81">
+                    <coordinates>-165.9688734,64.746215,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="84">
+                <name>Counter: 700014
+&quot;2018-03-26 15:09:22.22&quot;</name>
+                <description>123.1</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="83">
+                    <coordinates>-165.96889,64.7462217,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="86">
+                <name>Counter: 700015
+&quot;2018-03-26 15:09:30.42&quot;</name>
+                <description>122.8</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="85">
+                    <coordinates>-165.9688967,64.74623,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="88">
+                <name>Counter: 700016
+&quot;2018-03-26 15:09:38.02&quot;</name>
+                <description>125</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="87">
+                    <coordinates>-165.9689217,64.7462383,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="90">
+                <name>Counter: 700017
+&quot;2018-03-26 15:09:49.13&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="89">
+                    <coordinates>-165.9689316,64.7462417,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="92">
+                <name>Counter: 700018
+&quot;2018-03-26 15:09:57.1&quot;</name>
+                <description>126.9</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="91">
+                    <coordinates>-165.9689466,64.7462517,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="94">
+                <name>Counter: 700019
+&quot;2018-03-26 15:10:05.26&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="93">
+                    <coordinates>-165.9689617,64.746255,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="96">
+                <name>Counter: 700020
+&quot;2018-03-26 15:10:16.53&quot;</name>
+                <description>127.7</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="95">
+                    <coordinates>-165.968975,64.7462584,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="98">
+                <name>Counter: 700021
+&quot;2018-03-26 15:10:25.98&quot;</name>
+                <description>119.1</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="97">
+                    <coordinates>-165.96899,64.746265,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="100">
+                <name>Counter: 700022
+&quot;2018-03-26 15:10:34.99&quot;</name>
+                <description>119.5</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="99">
+                    <coordinates>-165.9690066,64.7462717,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="102">
+                <name>Counter: 700023
+&quot;2018-03-26 15:10:43.07&quot;</name>
+                <description>124.3</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="101">
+                    <coordinates>-165.969025,64.7462783,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="104">
+                <name>Counter: 700024
+&quot;2018-03-26 15:10:52.23&quot;</name>
+                <description>118.4</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="103">
+                    <coordinates>-165.969045,64.7462834,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="106">
+                <name>Counter: 700025
+&quot;2018-03-26 15:11:20.94&quot;</name>
+                <description>103.5</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="105">
+                    <coordinates>-165.969055,64.7462883,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="108">
+                <name>Counter: 700026
+&quot;2018-03-26 15:11:28.02&quot;</name>
+                <description>117.3</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="107">
+                    <coordinates>-165.9690716,64.746295,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="110">
+                <name>Counter: 700027
+&quot;2018-03-26 15:11:35.77&quot;</name>
+                <description>124.6</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="109">
+                    <coordinates>-165.9690884,64.7463033,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="112">
+                <name>Counter: 700028
+&quot;2018-03-26 15:11:43.87&quot;</name>
+                <description>112.3</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="111">
+                    <coordinates>-165.9691033,64.7463118,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="114">
+                <name>Counter: 700029
+&quot;2018-03-26 15:11:51.29&quot;</name>
+                <description>108.2</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="113">
+                    <coordinates>-165.9691166,64.7463183,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="116">
+                <name>Counter: 700030
+&quot;2018-03-26 15:12:00.06&quot;</name>
+                <description>117.6</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="115">
+                    <coordinates>-165.969095,64.7463217,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="118">
+                <name>Counter: 700031
+&quot;2018-03-26 15:12:08.81&quot;</name>
+                <description>107.3</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="117">
+                    <coordinates>-165.969075,64.7463234,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="120">
+                <name>Counter: 700032
+&quot;2018-03-26 15:12:19.23&quot;</name>
+                <description>125.5</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="119">
+                    <coordinates>-165.969055,64.746325,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="122">
+                <name>Counter: 700033
+&quot;2018-03-26 15:12:28.13&quot;</name>
+                <description>125.9</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="121">
+                    <coordinates>-165.9690267,64.746325,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="124">
+                <name>Counter: 700034
+&quot;2018-03-26 15:12:37.27&quot;</name>
+                <description>124</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="123">
+                    <coordinates>-165.9690034,64.7463266,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="126">
+                <name>Counter: 700035
+&quot;2018-03-26 15:12:48.72&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="125">
+                    <coordinates>-165.968985,64.7463266,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="128">
+                <name>Counter: 700036
+&quot;2018-03-26 15:12:59&quot;</name>
+                <description>129.7</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="127">
+                    <coordinates>-165.9689666,64.7463283,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="130">
+                <name>Counter: 700037
+&quot;2018-03-26 15:13:08.06&quot;</name>
+                <description>125.3</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="129">
+                    <coordinates>-165.9689316,64.7463283,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="132">
+                <name>Counter: 700038
+&quot;2018-03-26 15:13:19.69&quot;</name>
+                <description>121.4</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="131">
+                    <coordinates>-165.96892,64.7463333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="134">
+                <name>Counter: 700039
+&quot;2018-03-26 15:13:29.85&quot;</name>
+                <description>118.8</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="133">
+                    <coordinates>-165.96889,64.7463316,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="136">
+                <name>Counter: 700040
+&quot;2018-03-26 15:13:37.45&quot;</name>
+                <description>104.2</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="135">
+                    <coordinates>-165.9688817,64.7463316,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="138">
+                <name>Counter: 700041
+&quot;2018-03-26 15:13:43.76&quot;</name>
+                <description>97.8</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="137">
+                    <coordinates>-165.968865,64.7463333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="140">
+                <name>Counter: 700042
+&quot;2018-03-26 15:13:53.93&quot;</name>
+                <description>86.5</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="139">
+                    <coordinates>-165.9688434,64.7463333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="142">
+                <name>Counter: 700043
+&quot;2018-03-26 15:14:01.31&quot;</name>
+                <description>108.3</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="141">
+                    <coordinates>-165.96882,64.746335,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="144">
+                <name>Counter: 700044
+&quot;2018-03-26 15:14:09.65&quot;</name>
+                <description>117.9</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="143">
+                    <coordinates>-165.9687917,64.746335,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="146">
+                <name>Counter: 700045
+&quot;2018-03-26 15:14:21.29&quot;</name>
+                <description>106</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="145">
+                    <coordinates>-165.9687683,64.7463367,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="148">
+                <name>Counter: 700046
+&quot;2018-03-26 15:14:30.11&quot;</name>
+                <description>107.4</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="147">
+                    <coordinates>-165.9687467,64.746335,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="150">
+                <name>Counter: 700047
+&quot;2018-03-26 15:14:37.88&quot;</name>
+                <description>129.4</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="149">
+                    <coordinates>-165.9687267,64.7463383,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="152">
+                <name>Counter: 700048
+&quot;2018-03-26 15:14:48.42&quot;</name>
+                <description>128.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="151">
+                    <coordinates>-165.9687083,64.746335,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="154">
+                <name>Counter: 700049
+&quot;2018-03-26 15:14:55.96&quot;</name>
+                <description>128.1</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="153">
+                    <coordinates>-165.9686883,64.7463367,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="156">
+                <name>Counter: 700050
+&quot;2018-03-26 15:15:15.12&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="155">
+                    <coordinates>-165.9686683,64.7463383,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="158">
+                <name>Counter: 700051
+&quot;2018-03-26 15:17:12.56&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="157">
+                    <coordinates>-165.9686317,64.7463466,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="160">
+                <name>Counter: 700052
+&quot;2018-03-26 15:17:40.96&quot;</name>
+                <description>129.9</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="159">
+                    <coordinates>-165.9685983,64.7463483,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="162">
+                <name>Counter: 700053
+&quot;2018-03-26 15:18:06.88&quot;</name>
+                <description>110.2</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="161">
+                    <coordinates>-165.9685883,64.7463483,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="164">
+                <name>Counter: 700054
+&quot;2018-03-26 15:18:18.93&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="163">
+                    <coordinates>-165.9685666,64.7463483,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="166">
+                <name>Counter: 700055
+&quot;2018-03-26 15:18:56.41&quot;</name>
+                <description>128.5</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="165">
+                    <coordinates>-165.9685483,64.7463483,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="168">
+                <name>Counter: 700056
+&quot;2018-03-26 15:19:09.08&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="167">
+                    <coordinates>-165.9685234,64.746345,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="170">
+                <name>Counter: 700057
+&quot;2018-03-26 15:19:52.31&quot;</name>
+                <description>127.4</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="169">
+                    <coordinates>-165.9685067,64.746345,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="172">
+                <name>Counter: 700058
+&quot;2018-03-26 15:20:00.47&quot;</name>
+                <description>118</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="171">
+                    <coordinates>-165.9684883,64.7463417,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="174">
+                <name>Counter: 700059
+&quot;2018-03-26 15:20:09.37&quot;</name>
+                <description>127.1</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="173">
+                    <coordinates>-165.9684684,64.7463417,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="176">
+                <name>Counter: 700060
+&quot;2018-03-26 15:20:18.79&quot;</name>
+                <description>128.9</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="175">
+                    <coordinates>-165.9684517,64.7463434,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="178">
+                <name>Counter: 700061
+&quot;2018-03-26 15:20:28.74&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="177">
+                    <coordinates>-165.968415,64.7463383,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="180">
+                <name>Counter: 700062
+&quot;2018-03-26 15:21:47.81&quot;</name>
+                <description>125.1</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="179">
+                    <coordinates>-165.96844,64.746335,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="182">
+                <name>Counter: 700063
+&quot;2018-03-26 15:21:58.66&quot;</name>
+                <description>116.8</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="181">
+                    <coordinates>-165.9684566,64.7463266,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="184">
+                <name>Counter: 700064
+&quot;2018-03-26 15:22:06.74&quot;</name>
+                <description>127.5</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="183">
+                    <coordinates>-165.9684684,64.74632,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="186">
+                <name>Counter: 700065
+&quot;2018-03-26 15:22:16.14&quot;</name>
+                <description>128.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="185">
+                    <coordinates>-165.9684834,64.7463118,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="188">
+                <name>Counter: 700066
+&quot;2018-03-26 15:22:24.69&quot;</name>
+                <description>119.9</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="187">
+                    <coordinates>-165.968495,64.746305,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="190">
+                <name>Counter: 700067
+&quot;2018-03-26 15:22:34.02&quot;</name>
+                <description>87.6</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="189">
+                    <coordinates>-165.9685033,64.7463,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="192">
+                <name>Counter: 700068
+&quot;2018-03-26 15:22:41.76&quot;</name>
+                <description>119.9</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="191">
+                    <coordinates>-165.9685166,64.7462933,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="194">
+                <name>Counter: 700069
+&quot;2018-03-26 15:22:51.56&quot;</name>
+                <description>128.7</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="193">
+                    <coordinates>-165.9685334,64.7462866,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="196">
+                <name>Counter: 700070
+&quot;2018-03-26 15:23:02.12&quot;</name>
+                <description>125</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="195">
+                    <coordinates>-165.9685467,64.7462766,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="198">
+                <name>Counter: 700071
+&quot;2018-03-26 15:23:12.08&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="197">
+                    <coordinates>-165.9685583,64.74627,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="200">
+                <name>Counter: 700072
+&quot;2018-03-26 15:23:49.54&quot;</name>
+                <description>126.5</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="199">
+                    <coordinates>-165.9685783,64.7462634,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="202">
+                <name>Counter: 700073
+&quot;2018-03-26 15:23:59.26&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="201">
+                    <coordinates>-165.9685883,64.7462617,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="204">
+                <name>Counter: 700074
+&quot;2018-03-26 15:24:07.49&quot;</name>
+                <description>125.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="203">
+                    <coordinates>-165.9685966,64.7462517,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="206">
+                <name>Counter: 700075
+&quot;2018-03-26 15:24:15.18&quot;</name>
+                <description>109.3</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="205">
+                    <coordinates>-165.9686266,64.7462417,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="208">
+                <name>Counter: 700076
+&quot;2018-03-26 15:24:22.17&quot;</name>
+                <description>107.6</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="207">
+                    <coordinates>-165.968635,64.7462333,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="210">
+                <name>Counter: 700077
+&quot;2018-03-26 15:24:29.97&quot;</name>
+                <description>111.4</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="209">
+                    <coordinates>-165.9686483,64.7462234,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="212">
+                <name>Counter: 700078
+&quot;2018-03-26 15:24:37.51&quot;</name>
+                <description>129.2</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="211">
+                    <coordinates>-165.9686566,64.7462184,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="214">
+                <name>Counter: 700079
+&quot;2018-03-26 15:24:45.27&quot;</name>
+                <description>110</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="213">
+                    <coordinates>-165.96867,64.7462117,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="216">
+                <name>Counter: 700080
+&quot;2018-03-26 15:24:52.39&quot;</name>
+                <description>106.7</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="215">
+                    <coordinates>-165.96868,64.7462066,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="218">
+                <name>Counter: 700081
+&quot;2018-03-26 15:24:59.4&quot;</name>
+                <description>120.3</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="217">
+                    <coordinates>-165.9686917,64.7461967,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="220">
+                <name>Counter: 700082
+&quot;2018-03-26 15:25:05.76&quot;</name>
+                <description>98.7</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="219">
+                    <coordinates>-165.9687066,64.7461917,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="222">
+                <name>Counter: 700083
+&quot;2018-03-26 15:25:12.38&quot;</name>
+                <description>91.6</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="221">
+                    <coordinates>-165.9687216,64.7461866,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="224">
+                <name>Counter: 700084
+&quot;2018-03-26 15:25:18.81&quot;</name>
+                <description>97.6</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="223">
+                    <coordinates>-165.968735,64.7461783,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="226">
+                <name>Counter: 700085
+&quot;2018-03-26 15:25:25.38&quot;</name>
+                <description>91.6</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="225">
+                    <coordinates>-165.96875,64.7461734,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="228">
+                <name>Counter: 700086
+&quot;2018-03-26 15:54:39.53&quot;</name>
+                <description>98.3</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="227">
+                    <coordinates>-165.9687234,64.7461766,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="230">
+                <name>Counter: 700087
+&quot;2018-03-26 15:54:52.67&quot;</name>
+                <description>113.4</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="229">
+                    <coordinates>-165.9686666,64.74615,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="232">
+                <name>Counter: 700088
+&quot;2018-03-26 15:55:03.95&quot;</name>
+                <description>109.8</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="231">
+                    <coordinates>-165.96861,64.7461166,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="234">
+                <name>Counter: 700089
+&quot;2018-03-26 15:55:17.47&quot;</name>
+                <description>75.65</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="233">
+                    <coordinates>-165.9685483,64.7460867,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="236">
+                <name>Counter: 700090
+&quot;2018-03-26 15:55:28.52&quot;</name>
+                <description>113.2</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="235">
+                    <coordinates>-165.96849,64.7460566,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="238">
+                <name>Counter: 700091
+&quot;2018-03-26 15:55:40.54&quot;</name>
+                <description>105.3</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="237">
+                    <coordinates>-165.9684266,64.746025,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="240">
+                <name>Counter: 700092
+&quot;2018-03-26 15:56:38.58&quot;</name>
+                <description>86.6</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="239">
+                    <coordinates>-165.9683734,64.7459966,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="242">
+                <name>Counter: 700093
+&quot;2018-03-26 15:56:50.62&quot;</name>
+                <description>101.6</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="241">
+                    <coordinates>-165.968305,64.7459666,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="244">
+                <name>Counter: 700094
+&quot;2018-03-26 15:57:02.75&quot;</name>
+                <description>115.6</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="243">
+                    <coordinates>-165.9682466,64.7459299,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="246">
+                <name>Counter: 700095
+&quot;2018-03-26 15:57:15.43&quot;</name>
+                <description>115.2</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="245">
+                    <coordinates>-165.96819,64.7458917,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="248">
+                <name>Counter: 700096
+&quot;2018-03-26 15:57:28.12&quot;</name>
+                <description>129.2</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="247">
+                    <coordinates>-165.9681383,64.7458516,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="250">
+                <name>Counter: 700097
+&quot;2018-03-26 15:57:42.13&quot;</name>
+                <description>129.9</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="249">
+                    <coordinates>-165.968075,64.7458133,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="252">
+                <name>Counter: 700098
+&quot;2018-03-26 15:57:55.8&quot;</name>
+                <description>127.5</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="251">
+                    <coordinates>-165.9680066,64.7457733,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="254">
+                <name>Counter: 700099
+&quot;2018-03-26 15:58:08.47&quot;</name>
+                <description>127.2</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="253">
+                    <coordinates>-165.9679467,64.7457317,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="256">
+                <name>Counter: 700100
+&quot;2018-03-26 15:58:23.1&quot;</name>
+                <description>125.2</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="255">
+                    <coordinates>-165.9678834,64.745695,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="258">
+                <name>Counter: 700101
+&quot;2018-03-26 15:58:37.03&quot;</name>
+                <description>129.2</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="257">
+                    <coordinates>-165.9678234,64.7456534,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="260">
+                <name>Counter: 700102
+&quot;2018-03-26 15:58:49.79&quot;</name>
+                <description>127.9</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="259">
+                    <coordinates>-165.9677684,64.7456134,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="262">
+                <name>Counter: 700103
+&quot;2018-03-26 15:59:00.41&quot;</name>
+                <description>96.9</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="261">
+                    <coordinates>-165.9677033,64.745575,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="264">
+                <name>Counter: 700104
+&quot;2018-03-26 15:59:12.46&quot;</name>
+                <description>115.1</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="263">
+                    <coordinates>-165.9676583,64.74554,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="266">
+                <name>Counter: 700105
+&quot;2018-03-26 15:59:27.41&quot;</name>
+                <description>126.5</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="265">
+                    <coordinates>-165.9676034,64.7454983,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="268">
+                <name>Counter: 700106
+&quot;2018-03-26 15:59:38.52&quot;</name>
+                <description>120</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="267">
+                    <coordinates>-165.967555,64.7454567,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="270">
+                <name>Counter: 700107
+&quot;2018-03-26 15:59:51.11&quot;</name>
+                <description>104.6</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="269">
+                    <coordinates>-165.9674917,64.7454184,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="272">
+                <name>Counter: 700108
+&quot;2018-03-26 16:00:03.02&quot;</name>
+                <description>78.94</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="271">
+                    <coordinates>-165.9674334,64.7453783,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="274">
+                <name>Counter: 700109
+&quot;2018-03-26 16:00:14.84&quot;</name>
+                <description>88.3</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="273">
+                    <coordinates>-165.9673766,64.7453317,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="276">
+                <name>Counter: 700110
+&quot;2018-03-26 16:00:28.98&quot;</name>
+                <description>72.47</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="275">
+                    <coordinates>-165.9673483,64.7452833,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="278">
+                <name>Counter: 700111
+&quot;2018-03-26 16:00:41.4&quot;</name>
+                <description>128.6</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="277">
+                    <coordinates>-165.9673,64.74524,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="280">
+                <name>Counter: 700112
+&quot;2018-03-26 16:00:53.32&quot;</name>
+                <description>118.8</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="279">
+                    <coordinates>-165.9672517,64.7452033,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="282">
+                <name>Counter: 700113
+&quot;2018-03-26 16:01:05.55&quot;</name>
+                <description>117.5</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="281">
+                    <coordinates>-165.967215,64.7451683,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="284">
+                <name>Counter: 700114
+&quot;2018-03-26 16:01:35.88&quot;</name>
+                <description>121.9</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="283">
+                    <coordinates>-165.96716,64.7451283,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="286">
+                <name>Counter: 700115
+&quot;2018-03-26 16:01:47.53&quot;</name>
+                <description>124.5</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="285">
+                    <coordinates>-165.9671017,64.7450934,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="288">
+                <name>Counter: 700116
+&quot;2018-03-26 16:01:59.4&quot;</name>
+                <description>120.9</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="287">
+                    <coordinates>-165.9670417,64.7450617,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="290">
+                <name>Counter: 700117
+&quot;2018-03-26 16:02:10.83&quot;</name>
+                <description>94.7</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="289">
+                    <coordinates>-165.9669901,64.7450217,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="292">
+                <name>Counter: 700118
+&quot;2018-03-26 16:02:21.8&quot;</name>
+                <description>81.7</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="291">
+                    <coordinates>-165.9669383,64.7449834,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="294">
+                <name>Counter: 700119
+&quot;2018-03-26 16:02:32.2&quot;</name>
+                <description>82.7</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="293">
+                    <coordinates>-165.9668933,64.744945,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="296">
+                <name>Counter: 700120
+&quot;2018-03-26 16:02:45.22&quot;</name>
+                <description>83.5</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="295">
+                    <coordinates>-165.9668266,64.7449017,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="298">
+                <name>Counter: 700121
+&quot;2018-03-26 16:02:57.59&quot;</name>
+                <description>119.6</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="297">
+                    <coordinates>-165.9667517,64.7448566,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="300">
+                <name>Counter: 700122
+&quot;2018-03-26 16:03:08.28&quot;</name>
+                <description>115.5</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="299">
+                    <coordinates>-165.966705,64.7448134,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="302">
+                <name>Counter: 700123
+&quot;2018-03-26 16:03:25.1&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="301">
+                    <coordinates>-165.966635,64.7447717,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="304">
+                <name>Counter: 700124
+&quot;2018-03-26 16:03:48.78&quot;</name>
+                <description>125.7</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="303">
+                    <coordinates>-165.9665717,64.7447366,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="306">
+                <name>Counter: 700125
+&quot;2018-03-26 16:04:01.87&quot;</name>
+                <description>124.8</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="305">
+                    <coordinates>-165.966515,64.744695,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="308">
+                <name>Counter: 700126
+&quot;2018-03-26 16:04:12.45&quot;</name>
+                <description>113.4</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="307">
+                    <coordinates>-165.9664634,64.7446633,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="310">
+                <name>Counter: 700127
+&quot;2018-03-26 16:04:25.17&quot;</name>
+                <description>104.5</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="309">
+                    <coordinates>-165.9663966,64.7446233,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="312">
+                <name>Counter: 700128
+&quot;2018-03-26 16:04:36.67&quot;</name>
+                <description>124.7</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="311">
+                    <coordinates>-165.9663467,64.7445816,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="314">
+                <name>Counter: 700129
+&quot;2018-03-26 16:04:47.98&quot;</name>
+                <description>79.61</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="313">
+                    <coordinates>-165.9662866,64.7445366,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="316">
+                <name>Counter: 700130
+&quot;2018-03-26 16:04:58.36&quot;</name>
+                <description>84.2</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="315">
+                    <coordinates>-165.96623,64.744495,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="318">
+                <name>Counter: 700131
+&quot;2018-03-26 16:05:08.81&quot;</name>
+                <description>75.26</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="317">
+                    <coordinates>-165.966165,64.7444583,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="320">
+                <name>Counter: 700132
+&quot;2018-03-26 16:05:20.34&quot;</name>
+                <description>126.3</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="319">
+                    <coordinates>-165.9661066,64.74441,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="322">
+                <name>Counter: 700133
+&quot;2018-03-26 16:05:30.95&quot;</name>
+                <description>97.4</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="321">
+                    <coordinates>-165.96605,64.7443634,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="324">
+                <name>Counter: 700134
+&quot;2018-03-26 16:05:45.55&quot;</name>
+                <description>104.1</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="323">
+                    <coordinates>-165.9659883,64.7443234,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="326">
+                <name>Counter: 700135
+&quot;2018-03-26 16:05:55.87&quot;</name>
+                <description>106.6</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="325">
+                    <coordinates>-165.9659134,64.7442917,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="328">
+                <name>Counter: 700136
+&quot;2018-03-26 16:06:07.22&quot;</name>
+                <description>121.4</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="327">
+                    <coordinates>-165.965855,64.74425,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="330">
+                <name>Counter: 700137
+&quot;2018-03-26 16:06:17.46&quot;</name>
+                <description>121.2</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="329">
+                    <coordinates>-165.9657983,64.7442116,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="332">
+                <name>Counter: 700138
+&quot;2018-03-26 16:06:28.04&quot;</name>
+                <description>127</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="331">
+                    <coordinates>-165.965735,64.7441683,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="334">
+                <name>Counter: 700139
+&quot;2018-03-26 16:06:38.52&quot;</name>
+                <description>92.1</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="333">
+                    <coordinates>-165.9656866,64.7441317,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="336">
+                <name>Counter: 700140
+&quot;2018-03-26 16:06:48.5&quot;</name>
+                <description>77.88</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="335">
+                    <coordinates>-165.965625,64.7440933,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="338">
+                <name>Counter: 700141
+&quot;2018-03-26 16:06:57.97&quot;</name>
+                <description>72.69</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="337">
+                    <coordinates>-165.965575,64.7440584,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="340">
+                <name>Counter: 700142
+&quot;2018-03-26 16:07:08.4&quot;</name>
+                <description>70.79</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="339">
+                    <coordinates>-165.9655284,64.7440217,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="342">
+                <name>Counter: 700143
+&quot;2018-03-26 16:07:17.83&quot;</name>
+                <description>88.6</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="341">
+                    <coordinates>-165.9654767,64.743985,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="344">
+                <name>Counter: 700144
+&quot;2018-03-26 16:07:27.81&quot;</name>
+                <description>113.7</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="343">
+                    <coordinates>-165.96544,64.7439434,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="346">
+                <name>Counter: 700145
+&quot;2018-03-26 16:07:36.7&quot;</name>
+                <description>103.4</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="345">
+                    <coordinates>-165.965375,64.7439134,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="348">
+                <name>Counter: 700146
+&quot;2018-03-26 16:14:28.27&quot;</name>
+                <description>103.4</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="347">
+                    <coordinates>-165.9653584,64.7439183,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="350">
+                <name>Counter: 700147
+&quot;2018-03-26 16:17:21.79&quot;</name>
+                <description>97</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="349">
+                    <coordinates>-165.9654182,64.743905,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="352">
+                <name>Counter: 700148
+&quot;2018-03-26 16:17:40.78&quot;</name>
+                <description>117</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="351">
+                    <coordinates>-165.9654083,64.7439083,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="354">
+                <name>Counter: 700149
+&quot;2018-03-26 16:17:55.99&quot;</name>
+                <description>93.1</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="353">
+                    <coordinates>-165.965395,64.743915,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="356">
+                <name>Counter: 700150
+&quot;2018-03-26 16:18:11.39&quot;</name>
+                <description>93</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="355">
+                    <coordinates>-165.9653817,64.7439216,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="358">
+                <name>Counter: 700151
+&quot;2018-03-26 16:18:29.28&quot;</name>
+                <description>95.4</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="357">
+                    <coordinates>-165.9653566,64.7439283,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="360">
+                <name>Counter: 700152
+&quot;2018-03-26 16:18:50.03&quot;</name>
+                <description>83.7</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="359">
+                    <coordinates>-165.9653399,64.7439334,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="362">
+                <name>Counter: 700153
+&quot;2018-03-26 16:19:06.33&quot;</name>
+                <description>86.5</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="361">
+                    <coordinates>-165.9653317,64.7439417,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="364">
+                <name>Counter: 700154
+&quot;2018-03-26 16:19:19.64&quot;</name>
+                <description>77.66</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="363">
+                    <coordinates>-165.96532,64.7439466,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="366">
+                <name>Counter: 700155
+&quot;2018-03-26 16:19:31.31&quot;</name>
+                <description>94.7</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="365">
+                    <coordinates>-165.9653016,64.7439534,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="368">
+                <name>Counter: 700156
+&quot;2018-03-26 16:19:43.27&quot;</name>
+                <description>94.3</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="367">
+                    <coordinates>-165.9652866,64.7439683,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="370">
+                <name>Counter: 700157
+&quot;2018-03-26 16:19:53.88&quot;</name>
+                <description>95.4</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="369">
+                    <coordinates>-165.9652766,64.7439801,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="372">
+                <name>Counter: 700158
+&quot;2018-03-26 16:20:04.78&quot;</name>
+                <description>89.4</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="371">
+                    <coordinates>-165.9652616,64.7439883,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="374">
+                <name>Counter: 700159
+&quot;2018-03-26 16:20:15.69&quot;</name>
+                <description>75.09</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="373">
+                    <coordinates>-165.965245,64.7439966,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="376">
+                <name>Counter: 700160
+&quot;2018-03-26 16:20:27.71&quot;</name>
+                <description>88.7</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="375">
+                    <coordinates>-165.965235,64.7440016,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="378">
+                <name>Counter: 700161
+&quot;2018-03-26 16:20:38.02&quot;</name>
+                <description>77.27</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="377">
+                    <coordinates>-165.965215,64.7440134,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="380">
+                <name>Counter: 700162
+&quot;2018-03-26 16:20:53.63&quot;</name>
+                <description>65.71</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="379">
+                    <coordinates>-165.965215,64.7440184,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="382">
+                <name>Counter: 700163
+&quot;2018-03-26 16:21:06.89&quot;</name>
+                <description>75.71</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="381">
+                    <coordinates>-165.9651983,64.7440184,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="384">
+                <name>Counter: 700164
+&quot;2018-03-26 16:21:23.46&quot;</name>
+                <description>77.27</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="383">
+                    <coordinates>-165.965185,64.7440267,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="386">
+                <name>Counter: 700165
+&quot;2018-03-26 16:21:42.7&quot;</name>
+                <description>80.9</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="385">
+                    <coordinates>-165.965145,64.744035,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="388">
+                <name>Counter: 700166
+&quot;2018-03-26 16:21:51.45&quot;</name>
+                <description>71.13</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="387">
+                    <coordinates>-165.9651166,64.7440434,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="390">
+                <name>Counter: 700167
+&quot;2018-03-26 16:22:01.43&quot;</name>
+                <description>67.67</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="389">
+                    <coordinates>-165.9650934,64.7440434,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="392">
+                <name>Counter: 700168
+&quot;2018-03-26 16:22:11.07&quot;</name>
+                <description>86</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="391">
+                    <coordinates>-165.96509,64.7440483,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="394">
+                <name>Counter: 700169
+&quot;2018-03-26 16:22:26.98&quot;</name>
+                <description>70.24</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="393">
+                    <coordinates>-165.9650717,64.7440517,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="396">
+                <name>Counter: 700170
+&quot;2018-03-26 16:22:41.95&quot;</name>
+                <description>111.5</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="395">
+                    <coordinates>-165.965045,64.7440666,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="398">
+                <name>Counter: 700171
+&quot;2018-03-26 16:22:59.57&quot;</name>
+                <description>94.5</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="397">
+                    <coordinates>-165.965055,64.744075,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="400">
+                <name>Counter: 700172
+&quot;2018-03-26 16:23:23.97&quot;</name>
+                <description>96.9</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="399">
+                    <coordinates>-165.9650816,64.7440766,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="402">
+                <name>Counter: 700173
+&quot;2018-03-26 16:23:34.52&quot;</name>
+                <description>109.4</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="401">
+                    <coordinates>-165.9651066,64.7440799,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="404">
+                <name>Counter: 700174
+&quot;2018-03-26 16:23:46.58&quot;</name>
+                <description>116.6</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="403">
+                    <coordinates>-165.9651283,64.7440799,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="406">
+                <name>Counter: 700175
+&quot;2018-03-26 16:23:59.24&quot;</name>
+                <description>89.7</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="405">
+                    <coordinates>-165.9651417,64.7440766,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="408">
+                <name>Counter: 700176
+&quot;2018-03-26 16:24:10.18&quot;</name>
+                <description>88.9</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="407">
+                    <coordinates>-165.96516,64.7440783,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="410">
+                <name>Counter: 700177
+&quot;2018-03-26 16:24:30.54&quot;</name>
+                <description>81.1</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="409">
+                    <coordinates>-165.9652017,64.7440783,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="412">
+                <name>Counter: 700178
+&quot;2018-03-26 16:24:49.46&quot;</name>
+                <description>78.67</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="411">
+                    <coordinates>-165.965225,64.7440783,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="414">
+                <name>Counter: 700179
+&quot;2018-03-26 16:25:00.92&quot;</name>
+                <description>87.5</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="413">
+                    <coordinates>-165.9652533,64.7440734,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="416">
+                <name>Counter: 700180
+&quot;2018-03-26 16:25:09.19&quot;</name>
+                <description>97.7</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="415">
+                    <coordinates>-165.965275,64.7440734,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="418">
+                <name>Counter: 700181
+&quot;2018-03-26 16:25:19.63&quot;</name>
+                <description>91.4</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="417">
+                    <coordinates>-165.9653034,64.74407,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="420">
+                <name>Counter: 700182
+&quot;2018-03-26 16:25:28.89&quot;</name>
+                <description>78.78</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="419">
+                    <coordinates>-165.9653367,64.74407,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="422">
+                <name>Counter: 700183
+&quot;2018-03-26 16:28:22.61&quot;</name>
+                <description>71.91</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="421">
+                    <coordinates>-165.96528,64.7440799,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="424">
+                <name>Counter: 700184
+&quot;2018-03-26 16:28:32.26&quot;</name>
+                <description>82</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="423">
+                    <coordinates>-165.9652983,64.7440766,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="426">
+                <name>Counter: 700185
+&quot;2018-03-26 16:28:47.48&quot;</name>
+                <description>81.7</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="425">
+                    <coordinates>-165.9653184,64.7440783,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="428">
+                <name>Counter: 700186
+&quot;2018-03-26 16:28:58.71&quot;</name>
+                <description>89.4</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="427">
+                    <coordinates>-165.9653517,64.7440766,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="430">
+                <name>Counter: 700187
+&quot;2018-03-26 16:29:08.45&quot;</name>
+                <description>102.9</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="429">
+                    <coordinates>-165.9653683,64.7440783,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="432">
+                <name>Counter: 700188
+&quot;2018-03-26 16:29:16.79&quot;</name>
+                <description>82.4</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="431">
+                    <coordinates>-165.9653917,64.7440799,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="434">
+                <name>Counter: 700189
+&quot;2018-03-26 16:29:25.84&quot;</name>
+                <description>90.1</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="433">
+                    <coordinates>-165.9654134,64.7440734,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="436">
+                <name>Counter: 700190
+&quot;2018-03-26 16:29:33.16&quot;</name>
+                <description>97.6</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="435">
+                    <coordinates>-165.9654367,64.74407,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="438">
+                <name>Counter: 700191
+&quot;2018-03-26 16:29:41.72&quot;</name>
+                <description>83.8</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="437">
+                    <coordinates>-165.9654583,64.7440666,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="440">
+                <name>Counter: 700192
+&quot;2018-03-26 16:29:50.47&quot;</name>
+                <description>75.82</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="439">
+                    <coordinates>-165.9654783,64.7440683,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="442">
+                <name>Counter: 700193
+&quot;2018-03-26 16:29:56.96&quot;</name>
+                <description>63.93</description>
+                <styleUrl>#26</styleUrl>
+                <Point id="441">
+                    <coordinates>-165.9654966,64.7440666,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="444">
+                <name>Counter: 700194
+&quot;2018-03-26 16:30:03.54&quot;</name>
+                <description>71.91</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="443">
+                    <coordinates>-165.965515,64.7440666,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="446">
+                <name>Counter: 700195
+&quot;2018-03-26 16:30:10.51&quot;</name>
+                <description>84.9</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="445">
+                    <coordinates>-165.9655417,64.7440683,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="448">
+                <name>Counter: 700196
+&quot;2018-03-26 16:30:18.91&quot;</name>
+                <description>70.01</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="447">
+                    <coordinates>-165.9655684,64.7440683,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="450">
+                <name>Counter: 700197
+&quot;2018-03-26 16:30:27.35&quot;</name>
+                <description>80.7</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="449">
+                    <coordinates>-165.965595,64.7440683,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="452">
+                <name>Counter: 700198
+&quot;2018-03-26 16:30:38.24&quot;</name>
+                <description>91.8</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="451">
+                    <coordinates>-165.9656183,64.74407,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="454">
+                <name>Counter: 700199
+&quot;2018-03-26 16:30:48.06&quot;</name>
+                <description>70.12</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="453">
+                    <coordinates>-165.9656483,64.74407,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="456">
+                <name>Counter: 700200
+&quot;2018-03-26 16:30:58.21&quot;</name>
+                <description>80.7</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="455">
+                    <coordinates>-165.9656783,64.7440683,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="458">
+                <name>Counter: 700201
+&quot;2018-03-26 16:31:10.75&quot;</name>
+                <description>77.49</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="457">
+                    <coordinates>-165.9656684,64.744055,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="460">
+                <name>Counter: 700202
+&quot;2018-03-26 16:31:19.61&quot;</name>
+                <description>68.45</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="459">
+                    <coordinates>-165.965655,64.744045,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="462">
+                <name>Counter: 700203
+&quot;2018-03-26 16:31:28.44&quot;</name>
+                <description>79.17</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="461">
+                    <coordinates>-165.9656433,64.7440383,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="464">
+                <name>Counter: 700204
+&quot;2018-03-26 16:31:39.2&quot;</name>
+                <description>65.66</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="463">
+                    <coordinates>-165.965625,64.7440283,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="466">
+                <name>Counter: 700205
+&quot;2018-03-26 16:31:50.47&quot;</name>
+                <description>66.77</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="465">
+                    <coordinates>-165.9656166,64.7440217,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="468">
+                <name>Counter: 700206
+&quot;2018-03-26 16:31:56.69&quot;</name>
+                <description>64.21</description>
+                <styleUrl>#26</styleUrl>
+                <Point id="467">
+                    <coordinates>-165.9656017,64.7440166,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="470">
+                <name>Counter: 700207
+&quot;2018-03-26 16:32:05.16&quot;</name>
+                <description>60.74</description>
+                <styleUrl>#26</styleUrl>
+                <Point id="469">
+                    <coordinates>-165.965585,64.7440067,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="472">
+                <name>Counter: 700208
+&quot;2018-03-26 16:32:12.78&quot;</name>
+                <description>71.41</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="471">
+                    <coordinates>-165.9655684,64.7439983,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="474">
+                <name>Counter: 700209
+&quot;2018-03-26 16:32:24.51&quot;</name>
+                <description>79.56</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="473">
+                    <coordinates>-165.9655567,64.7439917,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="476">
+                <name>Counter: 700210
+&quot;2018-03-26 16:32:35.78&quot;</name>
+                <description>81.1</description>
+                <styleUrl>#34</styleUrl>
+                <Point id="475">
+                    <coordinates>-165.9655383,64.7439834,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="478">
+                <name>Counter: 700211
+&quot;2018-03-26 16:32:46.14&quot;</name>
+                <description>73.31</description>
+                <styleUrl>#30</styleUrl>
+                <Point id="477">
+                    <coordinates>-165.9655284,64.743975,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="480">
+                <name>Counter: 700212
+&quot;2018-03-26 16:32:58.6&quot;</name>
+                <description>52.03</description>
+                <styleUrl>#22</styleUrl>
+                <Point id="479">
+                    <coordinates>-165.9655083,64.74397,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="482">
+                <name>Counter: 700213
+&quot;2018-03-26 16:33:06.35&quot;</name>
+                <description>89</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="481">
+                    <coordinates>-165.9654901,64.7439633,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="484">
+                <name>Counter: 700214
+&quot;2018-03-26 16:33:15.7&quot;</name>
+                <description>113.7</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="483">
+                    <coordinates>-165.96547,64.7439567,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="486">
+                <name>Counter: 700215
+&quot;2018-03-26 16:33:24.76&quot;</name>
+                <description>99.4</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="485">
+                    <coordinates>-165.9654634,64.7439483,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="488">
+                <name>Counter: 700216
+&quot;2018-03-26 16:33:34.22&quot;</name>
+                <description>103.8</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="487">
+                    <coordinates>-165.96545,64.743945,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="490">
+                <name>Counter: 700217
+&quot;2018-03-26 16:33:45.23&quot;</name>
+                <description>95.8</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="489">
+                    <coordinates>-165.965435,64.7439317,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="492">
+                <name>Counter: 700218
+&quot;2018-03-26 16:33:56.09&quot;</name>
+                <description>94</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="491">
+                    <coordinates>-165.9654182,64.7439283,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="494">
+                <name>Counter: 700219
+&quot;2018-03-26 16:34:05.2&quot;</name>
+                <description>119.5</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="493">
+                    <coordinates>-165.9654,64.74392,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="496">
+                <name>Counter: 700220
+&quot;2018-03-26 16:34:15.43&quot;</name>
+                <description>112.9</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="495">
+                    <coordinates>-165.9653917,64.743915,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="498">
+                <name>Counter: 700221
+&quot;2018-03-26 16:37:26.24&quot;</name>
+                <description>12.12</description>
+                <styleUrl>#6</styleUrl>
+                <Point id="497">
+                    <coordinates>-165.965435,64.7439534,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="500">
+                <name>Counter: 700222
+&quot;2018-03-26 17:12:49.1&quot;</name>
+                <description>129.9</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="499">
+                    <coordinates>-165.9635717,64.7444166,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="502">
+                <name>Counter: 700223
+&quot;2018-03-26 17:13:17.77&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="501">
+                    <coordinates>-165.9635916,64.7444217,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="504">
+                <name>Counter: 700224
+&quot;2018-03-26 17:13:38.69&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="503">
+                    <coordinates>-165.963615,64.7444266,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="506">
+                <name>Counter: 700225
+&quot;2018-03-26 17:14:18.27&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="505">
+                    <coordinates>-165.9636217,64.7444366,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="508">
+                <name>Counter: 700226
+&quot;2018-03-26 17:14:40.6&quot;</name>
+                <description>126</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="507">
+                    <coordinates>-165.9636283,64.7444433,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="510">
+                <name>Counter: 700227
+&quot;2018-03-26 17:14:41.76&quot;</name>
+                <description>123.6</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="509">
+                    <coordinates>-165.963635,64.7444383,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="512">
+                <name>Counter: 700228
+&quot;2018-03-26 17:15:31.06&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="511">
+                    <coordinates>-165.9636433,64.7444366,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="514">
+                <name>Counter: 700229
+&quot;2018-03-26 17:15:51.66&quot;</name>
+                <description>129.9</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="513">
+                    <coordinates>-165.96366,64.7444417,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="516">
+                <name>Counter: 700230
+&quot;2018-03-26 17:16:05.73&quot;</name>
+                <description>129.9</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="515">
+                    <coordinates>-165.9636867,64.7444433,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="518">
+                <name>Counter: 700231
+&quot;2018-03-26 17:16:35.96&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="517">
+                    <coordinates>-165.963695,64.744455,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="520">
+                <name>Counter: 700232
+&quot;2018-03-26 17:16:57.01&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="519">
+                    <coordinates>-165.9637066,64.7444583,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="522">
+                <name>Counter: 700233
+&quot;2018-03-26 17:17:30.43&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="521">
+                    <coordinates>-165.96372,64.744465,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="524">
+                <name>Counter: 700234
+&quot;2018-03-26 17:17:52.72&quot;</name>
+                <description>129.9</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="523">
+                    <coordinates>-165.9637317,64.7444717,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="526">
+                <name>Counter: 700235
+&quot;2018-03-26 17:18:17.91&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="525">
+                    <coordinates>-165.96375,64.744475,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="528">
+                <name>Counter: 700236
+&quot;2018-03-26 17:18:45.25&quot;</name>
+                <description>124.6</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="527">
+                    <coordinates>-165.9637667,64.7444883,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="530">
+                <name>Counter: 700237
+&quot;2018-03-26 17:18:55.27&quot;</name>
+                <description>126.7</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="529">
+                    <coordinates>-165.9638,64.7444934,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="532">
+                <name>Counter: 700238
+&quot;2018-03-26 17:19:06.52&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="531">
+                    <coordinates>-165.963805,64.744495,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="534">
+                <name>Counter: 700239
+&quot;2018-03-26 17:19:35&quot;</name>
+                <description>128.2</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="533">
+                    <coordinates>-165.9638184,64.7445066,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="536">
+                <name>Counter: 700240
+&quot;2018-03-26 17:19:44.55&quot;</name>
+                <description>128.9</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="535">
+                    <coordinates>-165.9638399,64.7445117,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="538">
+                <name>Counter: 700241
+&quot;2018-03-26 17:19:53.3&quot;</name>
+                <description>112.6</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="537">
+                    <coordinates>-165.963855,64.7445233,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="540">
+                <name>Counter: 700242
+&quot;2018-03-26 17:20:00.19&quot;</name>
+                <description>109.4</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="539">
+                    <coordinates>-165.9638666,64.7445267,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="542">
+                <name>Counter: 700243
+&quot;2018-03-26 17:20:07.58&quot;</name>
+                <description>86</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="541">
+                    <coordinates>-165.963865,64.744535,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="544">
+                <name>Counter: 700244
+&quot;2018-03-26 17:20:15.63&quot;</name>
+                <description>123.8</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="543">
+                    <coordinates>-165.963875,64.7445383,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="546">
+                <name>Counter: 700245
+&quot;2018-03-26 17:20:22.74&quot;</name>
+                <description>109.2</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="545">
+                    <coordinates>-165.9638766,64.7445417,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="548">
+                <name>Counter: 700246
+&quot;2018-03-26 17:20:30.54&quot;</name>
+                <description>110.9</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="547">
+                    <coordinates>-165.9638917,64.7445484,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="550">
+                <name>Counter: 700247
+&quot;2018-03-26 17:20:37.47&quot;</name>
+                <description>128.4</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="549">
+                    <coordinates>-165.9639117,64.744555,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="552">
+                <name>Counter: 700248
+&quot;2018-03-26 17:20:43.75&quot;</name>
+                <description>115.7</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="551">
+                    <coordinates>-165.963915,64.7445583,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="554">
+                <name>Counter: 700249
+&quot;2018-03-26 17:20:49.39&quot;</name>
+                <description>122.7</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="553">
+                    <coordinates>-165.9639234,64.7445634,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="556">
+                <name>Counter: 700250
+&quot;2018-03-26 17:21:01.16&quot;</name>
+                <description>111</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="555">
+                    <coordinates>-165.9639066,64.744565,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="558">
+                <name>Counter: 700251
+&quot;2018-03-26 17:21:08.3&quot;</name>
+                <description>91.6</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="557">
+                    <coordinates>-165.963885,64.7445666,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="560">
+                <name>Counter: 700252
+&quot;2018-03-26 17:21:14.62&quot;</name>
+                <description>98</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="559">
+                    <coordinates>-165.9638734,64.7445699,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="562">
+                <name>Counter: 700253
+&quot;2018-03-26 17:21:22.32&quot;</name>
+                <description>94.2</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="561">
+                    <coordinates>-165.9638517,64.7445717,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="564">
+                <name>Counter: 700254
+&quot;2018-03-26 17:21:29.63&quot;</name>
+                <description>106.9</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="563">
+                    <coordinates>-165.9638317,64.7445683,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="566">
+                <name>Counter: 700255
+&quot;2018-03-26 17:21:37.76&quot;</name>
+                <description>98.3</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="565">
+                    <coordinates>-165.9638233,64.7445717,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="568">
+                <name>Counter: 700256
+&quot;2018-03-26 17:22:06.4&quot;</name>
+                <description>92.7</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="567">
+                    <coordinates>-165.9638,64.7445734,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="570">
+                <name>Counter: 700257
+&quot;2018-03-26 17:22:12.35&quot;</name>
+                <description>114.7</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="569">
+                    <coordinates>-165.9637817,64.7445717,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="572">
+                <name>Counter: 700258
+&quot;2018-03-26 17:22:18.48&quot;</name>
+                <description>118.8</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="571">
+                    <coordinates>-165.9637567,64.7445717,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="574">
+                <name>Counter: 700259
+&quot;2018-03-26 17:22:24.13&quot;</name>
+                <description>113.9</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="573">
+                    <coordinates>-165.9637383,64.744575,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="576">
+                <name>Counter: 700260
+&quot;2018-03-26 17:22:31.11&quot;</name>
+                <description>106</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="575">
+                    <coordinates>-165.9637216,64.7445766,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="578">
+                <name>Counter: 700261
+&quot;2018-03-26 17:22:39.25&quot;</name>
+                <description>127</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="577">
+                    <coordinates>-165.963705,64.744585,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="580">
+                <name>Counter: 700262
+&quot;2018-03-26 17:22:49.08&quot;</name>
+                <description>125.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="579">
+                    <coordinates>-165.9636917,64.7445833,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="582">
+                <name>Counter: 700263
+&quot;2018-03-26 17:22:56.98&quot;</name>
+                <description>120.6</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="581">
+                    <coordinates>-165.9636583,64.74458,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="584">
+                <name>Counter: 700264
+&quot;2018-03-26 17:23:06.67&quot;</name>
+                <description>124.3</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="583">
+                    <coordinates>-165.9636366,64.74458,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="586">
+                <name>Counter: 700265
+&quot;2018-03-26 17:23:14.89&quot;</name>
+                <description>122.5</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="585">
+                    <coordinates>-165.9636183,64.7445816,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="588">
+                <name>Counter: 700266
+&quot;2018-03-26 17:24:07.91&quot;</name>
+                <description>116.1</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="587">
+                    <coordinates>-165.9636084,64.7445883,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="590">
+                <name>Counter: 700267
+&quot;2018-03-26 17:24:17.41&quot;</name>
+                <description>129</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="589">
+                    <coordinates>-165.9635817,64.7445883,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="592">
+                <name>Counter: 700268
+&quot;2018-03-26 17:24:24.08&quot;</name>
+                <description>119.3</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="591">
+                    <coordinates>-165.9635617,64.7445833,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="594">
+                <name>Counter: 700269
+&quot;2018-03-26 17:24:32&quot;</name>
+                <description>121.5</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="593">
+                    <coordinates>-165.9635467,64.7445833,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="596">
+                <name>Counter: 700270
+&quot;2018-03-26 17:24:41.53&quot;</name>
+                <description>128</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="595">
+                    <coordinates>-165.9635166,64.74458,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="598">
+                <name>Counter: 700271
+&quot;2018-03-26 17:24:50.27&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="597">
+                    <coordinates>-165.9634934,64.7445816,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="600">
+                <name>Counter: 700272
+&quot;2018-03-26 17:25:28.52&quot;</name>
+                <description>125.9</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="599">
+                    <coordinates>-165.963475,64.7445917,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="602">
+                <name>Counter: 700273
+&quot;2018-03-26 17:25:43.93&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="601">
+                    <coordinates>-165.9634483,64.744585,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="604">
+                <name>Counter: 700274
+&quot;2018-03-26 17:26:10.48&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="603">
+                    <coordinates>-165.9634266,64.7445934,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="606">
+                <name>Counter: 700275
+&quot;2018-03-26 17:26:37.99&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="605">
+                    <coordinates>-165.9634067,64.7445934,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="608">
+                <name>Counter: 700276
+&quot;2018-03-26 17:27:10.55&quot;</name>
+                <description>118.6</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="607">
+                    <coordinates>-165.9633866,64.7445966,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="610">
+                <name>Counter: 700277
+&quot;2018-03-26 17:27:17.33&quot;</name>
+                <description>127.4</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="609">
+                    <coordinates>-165.96337,64.7445983,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="612">
+                <name>Counter: 700278
+&quot;2018-03-26 17:27:24.71&quot;</name>
+                <description>124.8</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="611">
+                    <coordinates>-165.963355,64.7445983,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="614">
+                <name>Counter: 700279
+&quot;2018-03-26 17:27:33.25&quot;</name>
+                <description>126.1</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="613">
+                    <coordinates>-165.96334,64.7445983,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="616">
+                <name>Counter: 700280
+&quot;2018-03-26 17:27:40.89&quot;</name>
+                <description>124.7</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="615">
+                    <coordinates>-165.9633166,64.7445966,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="618">
+                <name>Counter: 700281
+&quot;2018-03-26 17:27:51.12&quot;</name>
+                <description>128.5</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="617">
+                    <coordinates>-165.9632984,64.7445983,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="620">
+                <name>Counter: 700282
+&quot;2018-03-26 17:27:59.82&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="619">
+                    <coordinates>-165.9632783,64.7445983,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="622">
+                <name>Counter: 700283
+&quot;2018-03-26 17:28:36.79&quot;</name>
+                <description>122.8</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="621">
+                    <coordinates>-165.96325,64.7445934,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="624">
+                <name>Counter: 700284
+&quot;2018-03-26 17:28:43.42&quot;</name>
+                <description>114.2</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="623">
+                    <coordinates>-165.9632317,64.74459,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="626">
+                <name>Counter: 700285
+&quot;2018-03-26 17:28:50.45&quot;</name>
+                <description>104.8</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="625">
+                    <coordinates>-165.963215,64.74459,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="628">
+                <name>Counter: 700286
+&quot;2018-03-26 17:28:57.3&quot;</name>
+                <description>117.1</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="627">
+                    <coordinates>-165.963195,64.744585,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="630">
+                <name>Counter: 700287
+&quot;2018-03-26 17:29:06.82&quot;</name>
+                <description>96.8</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="629">
+                    <coordinates>-165.96316,64.744585,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="632">
+                <name>Counter: 700288
+&quot;2018-03-26 17:29:14.32&quot;</name>
+                <description>114.8</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="631">
+                    <coordinates>-165.963175,64.744575,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="634">
+                <name>Counter: 700289
+&quot;2018-03-26 17:29:20.98&quot;</name>
+                <description>102.1</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="633">
+                    <coordinates>-165.9631917,64.7445683,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="636">
+                <name>Counter: 700290
+&quot;2018-03-26 17:29:27.6&quot;</name>
+                <description>89.9</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="635">
+                    <coordinates>-165.9631984,64.74456,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="638">
+                <name>Counter: 700291
+&quot;2018-03-26 17:29:33.71&quot;</name>
+                <description>89</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="637">
+                    <coordinates>-165.9632066,64.7445534,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="640">
+                <name>Counter: 700292
+&quot;2018-03-26 17:29:39.58&quot;</name>
+                <description>88.1</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="639">
+                    <coordinates>-165.9632166,64.7445484,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="642">
+                <name>Counter: 700293
+&quot;2018-03-26 17:29:45.43&quot;</name>
+                <description>103.4</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="641">
+                    <coordinates>-165.96323,64.7445417,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="644">
+                <name>Counter: 700294
+&quot;2018-03-26 17:29:53.88&quot;</name>
+                <description>92.2</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="643">
+                    <coordinates>-165.9632466,64.7445383,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="646">
+                <name>Counter: 700295
+&quot;2018-03-26 17:30:00.05&quot;</name>
+                <description>89.4</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="645">
+                    <coordinates>-165.963265,64.74453,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="648">
+                <name>Counter: 700296
+&quot;2018-03-26 17:30:06.76&quot;</name>
+                <description>86.3</description>
+                <styleUrl>#38</styleUrl>
+                <Point id="647">
+                    <coordinates>-165.9632834,64.7445233,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="650">
+                <name>Counter: 700297
+&quot;2018-03-26 17:30:12.77&quot;</name>
+                <description>99.2</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="649">
+                    <coordinates>-165.963295,64.7445166,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="652">
+                <name>Counter: 700298
+&quot;2018-03-26 17:30:18.89&quot;</name>
+                <description>95.5</description>
+                <styleUrl>#42</styleUrl>
+                <Point id="651">
+                    <coordinates>-165.9633083,64.74451,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="654">
+                <name>Counter: 700299
+&quot;2018-03-26 17:30:26.43&quot;</name>
+                <description>105.9</description>
+                <styleUrl>#46</styleUrl>
+                <Point id="653">
+                    <coordinates>-165.9633266,64.7445033,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="656">
+                <name>Counter: 700300
+&quot;2018-03-26 17:30:35&quot;</name>
+                <description>129.9</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="655">
+                    <coordinates>-165.9633483,64.7444966,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="658">
+                <name>Counter: 700301
+&quot;2018-03-26 17:31:04.65&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="657">
+                    <coordinates>-165.9633716,64.7444966,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="660">
+                <name>Counter: 700302
+&quot;2018-03-26 17:31:35.69&quot;</name>
+                <description>127.7</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="659">
+                    <coordinates>-165.96339,64.744495,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="662">
+                <name>Counter: 700303
+&quot;2018-03-26 17:31:44.14&quot;</name>
+                <description>122.4</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="661">
+                    <coordinates>-165.9634017,64.7444867,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="664">
+                <name>Counter: 700304
+&quot;2018-03-26 17:31:50.91&quot;</name>
+                <description>123.2</description>
+                <styleUrl>#50</styleUrl>
+                <Point id="663">
+                    <coordinates>-165.9634116,64.7444766,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="666">
+                <name>Counter: 700305
+&quot;2018-03-26 17:31:57.44&quot;</name>
+                <description>125.3</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="665">
+                    <coordinates>-165.9634283,64.7444683,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="668">
+                <name>Counter: 700306
+&quot;2018-03-26 17:32:03.77&quot;</name>
+                <description>128.2</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="667">
+                    <coordinates>-165.9634567,64.744465,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="670">
+                <name>Counter: 700307
+&quot;2018-03-26 17:32:17.39&quot;</name>
+                <description>129.9</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="669">
+                    <coordinates>-165.963475,64.7444583,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="672">
+                <name>Counter: 700308
+&quot;2018-03-26 17:32:49.22&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="671">
+                    <coordinates>-165.9635,64.7444583,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="674">
+                <name>Counter: 700309
+&quot;2018-03-26 17:33:41.78&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="673">
+                    <coordinates>-165.963505,64.7444583,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="676">
+                <name>Counter: 700310
+&quot;2018-03-26 17:34:12.15&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="675">
+                    <coordinates>-165.9635299,64.7444517,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="678">
+                <name>Counter: 700311
+&quot;2018-03-26 17:34:20.63&quot;</name>
+                <description>129.5</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="677">
+                    <coordinates>-165.963565,64.7444417,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="680">
+                <name>Counter: 700312
+&quot;2018-03-26 17:34:28.94&quot;</name>
+                <description>129.8</description>
+                <styleUrl>#54</styleUrl>
+                <Point id="679">
+                    <coordinates>-165.96358,64.7444334,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
