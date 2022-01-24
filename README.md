@@ -35,7 +35,27 @@ Cell B4: FLoat value for lower limit acceptable snow depths.  Use this to help t
 
 Cell B5: Float value for upper limit.  Typically this is the height of the snow stand minus the sensor blanking distance (roughly).  
 
-Cell B6: Float value 
+Cell B6: Float value for MaxDelta. This is the maximum allowable change from one reading to the next.  Larger than this the data point is skipped.  However, applies only to marginal confidence quality value measurments.  At the moment all high confidence (low quality values) are included in the final dataset.  Typically this works out ok though data set is adjusted for outliers using the add/delete flags on occasions where the higher confidence quality is in error.
+
+Cell B7: Start row (integer).  Starting row for the data proccessing.  Base 0 not 1 so value of 15 corresponds to row 16.  Typically the first two runs the startrow is 15 and then as the data is processed this will increase due to where in the season the macro terminates.
+
+Cell B8: End Row (integer).  This is an equation that counts the non empty cells in column C.  Not typically changed, just a reference.
+
+Cell B9: Run Stop (integer).  Default is to set this equal to B8.  But, often during analysis it might be StartRow B7 plus 500 or 1000 or something like that if data is being viewed incrementally.
+
+Cell E3: String value for the root name of the file (5min & 60min & csv are appended during output).  Station namme, location, years of winter are typical with words separated by underscore/hyphen.
+
+Cell E4: Output directory for the csv files
+
+Cell E5: Start of season date (just for user's info, this isn't reference by the macro)
+
+Cell E6: End of season date (again, just for user's info)
+
+
+
+## Tool 3: Python script for exporting to csv the final data products from the spreadsheet
+Reads through the spreadsheet quickly and scoops out the proper data and saves to csv.  There is/was a similar routine in the macro file but it was super slow and a bit wonky on output due to constraints of the macro language.
+
 
 
 
