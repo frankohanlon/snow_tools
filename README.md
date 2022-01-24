@@ -4,6 +4,20 @@ Variety of scripts and such for processing a couple types of snow depth data
 ## Tool One: Reformat Magnaprobe snow depth data into a Google Earth KML
 Pretty simple.  Used for nightly mapping snow course data in order to plan for the next day's course.  Also useful as a quick tool for visualizing the measurement time & ID for corellating with corrections that might be logged in a fieldbook.
 
+ python3 magna_ge_general.py -s example/SN58828.dat -o example/output.kml
+
+##########################################################################
+##########################################################################
+Input File (.dat) =  /home/bob/Dropbox/logger_data/2018/lanl_magna/SN58828.dat
+Output File (.kml) =  example/output.kml
+Alternate URL =  http://ngeedata.iarc.uaf.edu/data/icons/
+Icon Type =  number
+
+
+
+Program successful.  Now view the kml with the program of your choice.
+
+
 ## Tool Two: Libre Office sample spreadsheet and macro script for manually processing Campbell Scientific SR50A Snow Depth data.
 This tool will probably expand to a python script at some point.  The spreadsheet sample here is data from a site.  Necessary elements:
 
