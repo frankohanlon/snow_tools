@@ -3,7 +3,7 @@
 Simple tool to extract magnaprobe data from Campbell Scientific CR800 data file
 and use it to create a kml type file for google earth.
 
-
+Currently the output kml uses icons created using imagemagick
 
 """
 import simplekml
